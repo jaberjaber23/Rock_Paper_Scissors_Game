@@ -11,6 +11,7 @@ Dependencies:
 
 
 #Instructions:
+
 1-Clone the repository to your local machine.
 
 2-Install the required dependencies mentioned above (OpenCV, Python, cvzone, pyautogui).
