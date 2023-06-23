@@ -12,8 +12,12 @@ Dependencies:
 
 #Instructions:
 1-Clone the repository to your local machine.
+
 2-Install the required dependencies mentioned above (OpenCV, Python, cvzone, pyautogui).
+
 3-Run the main.py file using a Python interpreter.
+
 4-Start playing against the AI.
+
 
 ### Feel free to modify and distribute the game as you like. Enjoy!
